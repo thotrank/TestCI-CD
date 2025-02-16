@@ -1,4 +1,4 @@
--- Query 1: xtre dfgdfgd
+-- Query 1: 
 
 Write a SQL query to fetch all the duplicate records from a table.
 
